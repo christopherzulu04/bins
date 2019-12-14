@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>RICE DISH</title>
+</head>
+<body>
+<!--ln this code,l am going to reply what is my favourite food--!>
+<h5><em>My favourite food is ,rice mixed with eggs.</em></h5>
+<!-- ln this line of code,l am going to answer if l know how to prepare the dish myself--!>
+<h5><em>Yes l certainly do know how to make this dish on my own,cause it has been my favourite since chilldhood.</em></h5>
+<!--ln the folowing code below,l am going to list all the ingredients needed to prepare this dish,in unordered list style--!>
+<h2><em><strong>lngredients</em></strong></h2>
+<ul>
+<li><em>250g long grain rice</li><br><li>1 onion,finely chopped</li><br><li>4 Eggs,beaten</li><br><li>2 Spring onions,sliced,to serve</em></li><em><strong><Method</em></strong>
+</ul>
+<!-- ln the following code,l am going to write the method  of preparing this dish--!>
+<ol>
+<h2><em><strong>Method</em></strong></h2>
+<li><em>Cook the rice following pack instructions,the drain,spread it out to steam-dry and set aside.</em></li><br>
+<li><em>Heat 2 tablespoon of the oil in a large wok over a high heat,then add the onion and fry until lightly browned,around 5 minutes.Add the rice,stir and toast about 3 minutes,then move to the side of the pain.</em></li><br>
+<li><em>Add the remaining oil,then tip in the egg mixture.Leave to cook alittle ,then mix in with the rice-stir vigorously to coat the grains or if you prefer  the egg chunkier,allow to set for alittle longer before breaking up and stirring through.Tip into a serve bowl and scatter over the spring onion to serve.</em></li>
+</ol>
+</body>
+</html>
