@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>FAVOURITE DISH</title>
+</head>
+<body>
+<h1><em><strong>Chips Mayaya</em></strong></h1>
+<!-- ln this line of code,l am going to explain whay this food is,and the most braod reason why l cherish it so much--!>
+<p>
+  <em>The food l am going to prepare is Chips Maya.</em><br><em>And l like it so much because,it gives me apetite and most importantly,it supplies the bodh with a window into inner workings of human cells in living tissues,within an organ-relevant context.</em>
+</p>
+<!--ln ln this line of code,l am going to wrute down the ingredients and how it is prepared,in an ordered list style--!>
+<h1><em>lngredients</em></h1>
+<ol>
+<li><em> 2 Eggs&#129370</em></li><br><li><em>French fries&#127839 </em></li><br><li><em>Salt to taste &#x1F9C2</em></li><br><li>pepper to taste&#127798</em></li><br><li><em>Oil&#128738</em></li>
+</ol>
+<h1><em>Instructions</em></h2>
+<ol>
+<li><em>Make yourself a good amount of french fries or use to store bought</em></li><br><li><em>ln a bowl,whisk the eggs,add salt and pepper to taste.Add french fries to the bowl and mix it all.</em></li><br><li><em>ln a pan,heat oil and add the the fried eggs mixtire to it.Cook for 3 to 4 minutes until golden from the bottom of the flip and cook the other side.</em></li><br><li><em>Serve hot with your favourite chili sauce,bread or have it as it is,and Enjoy!</em></li>
+</li>
+</ol>
+<!--ln this line of code, am hoing to tell the reader,how the dish will look like ,smell and taste ,when it is all done.--!>
+<p>
+<em>When it is all done,the dish will look like crunchy while others will be soft with only slight crunchiness on the edges.</em><br><em>lt tastes drlicious.</em><br><em>And the smell is extremely good though,l can not manage to describe it in  just  words.</em>
+</p>
+<!--ln this line of code,l am going to show you images of how it looks like,as a final version of the dish--!>
+<br><br>
+<h1><em><strong>Final Version of The Dish</em></strong></h1>
+<img src="https://i.imgur.com/U3m7Exx.jpg"><alt="Chips Mayaya">
+</body>
+</html>
