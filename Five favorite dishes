@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>FIVE DISHES</title>
+</head>
+<body>
+<h3><em>MY BEST FIVE DISHES</em></h3>
+<!--ln this program,l am going to lost down my five favourite dishes,by writing down their sub-headings,viewing you images of each dish,adding little information about them and providng the links of where the end user can find additional information about each dish--!>
+<!--ln this line of code,l will display the Easy Oven Roasted Turkey Dish--!>
+<p>The following,is the Easy Oven Roasted Turkey Dish below;</p><br>
+<ol>
+<li><h2><em>Easy Oven Roasted Turkey</em></h2><br></li>
+<img src="https://i.imgur.com/3q8AlRJ.jpg" height=250 width=300><br><br>
+<!-- ln this line of code,l will provide little information about it--!>
+<h3><em><strong>Description</em></strong></h3>
+<p><em>This Oven Roasted Turkey Breast,is very easy to to prepare and the result is juicy meat with crispy skin.The Turkey breast cooks in half the time as a whole turkey,since it's usually half bird,to set on the roaster.Turkey breast is easier and faster to to prepare</em></p><br>
+<!--ln this line of code,l am going to provide a link to an end-user,so that he/she can get all the necessary information needed--!>
+<p>To get more information about this dish,click <em>view more </em>below</p><br>
+<a href="https://www.crunchycreamsweet.com/roasted.com/roasted-turkey-breast/#more21562"><em>View More</em></a><br>
+<!--ln this line of code,l will display the breakfast sandwiches--!>
+
+
+<li><h3><em>Breakfast Sandwiches</em></h3></li>
+<p><em>The following is the breakfast sandwiches below;</em></p><br>
+<img src="https://i.imgur.com/T5r7oeJ.jpg" height=250 width=300><br><br>
+<!--ln this of code,l will provide little information about it--!>
+<h3><em><strong>Description</em></strong></h3>
+<p><em>Easy and freezer-friendly breakfast sandwisches for busy days or when you need food a crowd,are the way to go!Englosh muffins filled with fluffy eggs cooked.Saudage patties and cheddar cheese are filling and delicious.All you need,is one sheet pan and one skilled to make a batch and freezer or to store in the fridge for a grab and go breakfast,this week.</em></p>
+<!--ln this line of code,l am going to provide a link to the end-user,so that he /she can get all the necessary information need--!>
+<p><em>To get more information about this dish,click</em><em>view more</em> below</p>
+<a href="https://www.crunchycreamsweet.com/freezer-breakfast-sandwiches/#more-25029"><em>View More</em></a><br><br>
+<!--ln this line of code,l will display lnstant Pot Lasagna--!>
+<li><h3><em>lnstant Pot Lasagna<h3></em></li>
+<p>The following is the lnstant Pot Lasagna below;</p><br>
+<img src="https://i.imgur.com/bIwQZ9r.jpg"height=250 width=300><br>
+<!--ln this line of code,l will provide little information about it--!>
+<h3><em><strong>Description</em></strong></h3>
+<p><em>lf you are already a fall of lnstant Pot Lasagna pasta dishes,you will love the lasagna!lt's made with flavoraful meal sauce and a creamy and cheese ricotta layer.Simply layer all ingredients in a springform pan and pressure cook for 23 minutes.You can even make it ahead of time and reheat in your instant pot!This Lasagna is bound to be a hit.</em></p><br>
+<!--ln this line of code,l am going to provide a link to the end-user,so that he or she can gey all the necessary information needed--!>
+<p><em>To get more information about the dish,click</em><em>view more</em>below</p>
+<a href="https://www.crunchycreamysweet.com/instant-pot-lasagna/#more-28186"><em>View more</em></a><br>
+<!--ln this lime of code,l am going to display the Ginger Bread Bars--!>
+<p>The following,is the Ginger Bread Bars below;</p><br>
+<li><h3><em>Ginger Bread Bars</h3></em></li><br>
+<img src="https://imgur.com/S1wJS6R.jpg" height=250 width=300><br><br>
+<!--ln this line of code,l will provide lityle information about it--!>
+<h3><em><strong>Description</em></strong></h3>
+<p><em>Aside from classic cookies amd our favourite candies and fudge,and cookie bars,are a must for Christmas parties and get-togethers.They are a great alternative if you need a treat fast or if you are not feeling like making individual Ginger Bread meal or drop cookies.These Ginger Bread Bars,are perfectly species and chewy.l top them with sweet vanila cream cheese frosting and course,green and red sprinkles!</em></p><br>
+<!--ln this line of code,l am going to provide a link to the end-user,so that he or she can get all the necessary information needed--!>
+<p><em>To get more information about the dish,click</em><em>view more</em> below</p>
+<a href="https://www.crunchycreamysweet.com/gingerbread-cookie-bars-recipe/#more19615"><em>View more</em></a><br>
+<!--ln this line of code,l will display the lnstant Pot Yogurt--!>
+<p>The following,is the lnstant Pot Yogurt below;</p><br>
+<li><h3><em><strong>lnstant Pot Yogurt</h3></em></strong></li><br>
+<img src="https://i.imgur.com/QktH4cx.jpg" height=250 width=300><br>
+<!--ln this line of code,l will provide little information about it--!>
+<h3><em><strong>Description</em></strong></h3>
+<p><em>l think by now,we know that there is no much that lnstant Pot can't do.Did you know you make delicious yogurt with push of a button,right in pressure cook?lt's really easy!All you need is milk and yogurt.lt may seem weird that you make yogurt with yogurt,but it is the easiest wayto get the active cultures necessary to make it.You will only need the store-bought kind once,because you can make the homemade version to the next bath!We love this yogurt plain,with fruit jams,granda and honey!lt is also wonderful for baking.</em></p>
+<!--ln this line of code,l am going to provide the link to the end-user,so that he or she can get all the necessary information needed--!>
+<p><em>To get more information about this dish,click </em><em>View more</em> below;</p>
+<br>
+<a href="https://www.crunchycreamysweet.com/instant-pot-yogurt/#more-30729"><em>View more</em></a>
+</o>
+</body>
+</html>
