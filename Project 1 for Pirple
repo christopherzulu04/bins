@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>FAVOURITE MUSIC BLOG</title>
+</head>
+<body>
+<h3><em><strong><center>Welcome To Christopher Zulu's Favourite Muscians Blog</em></strong></center></h3>
+<!--ln this line of code,l am going to display the question and answer the reason why l love the musicians put in this blog--!>
+<h4>
+<em><strong>Question</em></strong></h4>
+<p><em>
+What is the broad reason why ,you love listening to the songs of these muscians?
+</em>
+</p>
+</h5>
+<ul>
+<li><em>l love listening to these muscian's songs because,they sing exactly about what happens in relationships and love affairs.</em></li>
+</ul>
+<!--ln this line of code,l am going to list down the details,a muscian with his song and olay option--!>
+<p><em>
+Below,is the list of my favourite musicians with their details amd play option for one of their songs;
+</em>
+</p>
+<ol>
+<li><em><strong>Westlife</em></strong></li><br>
+<img src="https://i.imgur.com/67QpswY.jpg" height=250 width=300></em></strong></li><br>
+<h><em><strong>Background Details</em></strong></h>
+<p><em>Origin:Sligo and Dublin,ireland<br>Genre:Pop<br>Years Active:2018-Present<br>Labels:Universal,<br>Virgin Emi,<br>Emi Australia,<br>Emi Japan,<br>RCA,Syco,<br>Sony,<br>Sony BMG,<br>and S.Artista.BMG.<br><br>
+<iframe src="https://youtu.be/embed/Jyk2jp9oOcg">
+</iframe>
+
+<!--ln this line of code,l am going to display the second musician--!>
+<li><em><strong>James Arthur</em></strong></li><br>
+<!--ln this lune od code,l am going to display the image of the muscian--!>
+<img src="https://i.imgur.com/CjHx0Kw.jpg" height=250 width=300><br>
+<!--ln this line of code,l am going to display the background details--!>
+<h><em><strong>Background Details</em></strong></h>
+<p><em>
+Birth Name: James Andrew Arthur<br>Born:2 March 1988,Middlebrough,England.<br>Genres: R&B,Pop and Soul. <br>Years active= 2011-Present<br>Occupation:Singer,Song writer<br>Labels: Columbia,Syco<br>lnstruments: Vocal and Guitar.
+</em></p>
+
+</ol>
+</body>
+</html>
